@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/itop1000/static/css/main.2c9c06cb.css",
+    "main.js": "/itop1000/static/js/main.5bf0bf6c.js",
+    "index.html": "/itop1000/index.html",
+    "main.2c9c06cb.css.map": "/itop1000/static/css/main.2c9c06cb.css.map",
+    "main.5bf0bf6c.js.map": "/itop1000/static/js/main.5bf0bf6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c9c06cb.css",
+    "static/js/main.5bf0bf6c.js"
+  ]
+}
