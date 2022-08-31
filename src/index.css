@@ -125,5 +125,8 @@ select {
 
 .h3 {
 	text-align: center;
-	background: red;
+}
+.BuyOrSell {
+	display: flex;
+	flex-direction: column;
 }
