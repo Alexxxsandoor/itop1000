@@ -18,7 +18,7 @@ const Buy = (props) => {
           setSell(e.target.value);
         }}
       />
-      UAH {rounded(sell * count)}
+      UAH {rounded(sell / count)}
       <select
         name="select"
         onChange={(e) => {
